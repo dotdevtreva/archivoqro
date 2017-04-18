@@ -8,6 +8,6 @@ Description, humm... I could say this is a user-proof GUI to manage a Microsoft 
 
 It's Custom software that complements a payroll system on the "Documentation Division" (This explain the import button who takes data from another .xls [*/aux-resources/Reporte de Trabajadores.xls*] )
 
-Don't forget to see the Terms & Conditions on *Copyrigth.txt* and you'll see this is Open Source Software.
+Don't forget to see the Terms & Conditions on *Copyright.txt* and you'll see this is Open Source Software.
 
 **All comments are welcome!**
